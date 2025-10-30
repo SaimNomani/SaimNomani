@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm MUHAMMAD SAIM NOMANI</h1>
-<h3 align="center">A passionate frontend developer from Pakistan</h3>
+<h3 align="center">An Aspiring Agentic AI Engineer from Pakistan</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saimnomani" alt="saimnomani" /></a> </p>
 
-- 🌱 I’m currently learning **Angular**
+- 🌱 I’m currently learning **Agentic AI**
 
-- 💬 Ask me about **HTML, CSS JavaScript, Python, C++**
+- 💬 Ask me about **Python, FastAPI, Generative AI, Agentic AI, LangChain, LangGraph, CrewAI, Autogen**
 
 - 📫 How to reach me **muhammadsaimnomani951@gmail.com**
 
